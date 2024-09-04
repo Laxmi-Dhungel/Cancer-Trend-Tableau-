@@ -9,4 +9,4 @@ This dashboard can be found at tableau public (https://public.tableau.com/app/pr
 
 The screenshot of the dashboard showing the cancer death trend is shown below: 
 
-![Cancer related deaths trend](https://github.com/user-attachments/assets/8747bbd2-2b68-4c1e-b04f-ab79dcffe6f7)
+![Cancer related deaths trend](https://github.com/user-attachments/assets/9f6179bb-385a-4c95-a64b-9c60831b5ea0)
