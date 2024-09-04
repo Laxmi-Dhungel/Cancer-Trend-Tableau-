@@ -3,3 +3,8 @@ In this repository, I have utilized tableau to understand the trend of cancer re
 In this project, I have made a dashboard which includes total number of cancer related deaths, total cancer related deaths for each country, top 10 countries for cancer related deaths, total cancer related deaths for each year and the most common cancer causing deaths. This dashboard is interactive and can be used to determine the total cancer deaths and most common type of cancer for different countries, years or both combined. 
 
 This dashboard can be found at tableau public (https://public.tableau.com/app/profile/laxmi.dhungel/viz/cancer_deaths_trend/Cancerrelateddeathstrend#1).
+
+
+The image of the dashboard showing the cancer death trend is shown below: 
+
+![Cancer related deaths trend](https://github.com/user-attachments/assets/8747bbd2-2b68-4c1e-b04f-ab79dcffe6f7)
